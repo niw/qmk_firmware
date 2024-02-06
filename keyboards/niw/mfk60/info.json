@@ -22,7 +22,9 @@
     "split": {
         "enabled": true,
         "usb_detect": {
-            "enabled": true
+            "enabled": true,
+            "polling_interval": 50,
+            "timeout": 5000
         },
         "handedness": {
             "pin": "D5"

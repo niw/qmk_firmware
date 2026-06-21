@@ -12,7 +12,7 @@
         "rows": ["B6", "C6", "C7"]
     },
     "processor": "atmega32u4",
-    "url": "",
+    "url": "https://github.com/niw/mfk5",
     "usb": {
         "device_version": "0.1.0",
         "pid": "0x0001",
